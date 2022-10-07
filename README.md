@@ -1,7 +1,7 @@
 Hi 👋 My name is Tyo Pratama
 ============================
 
-Backend Developer ⚙️
+Developer ⚙️
 --------------------
 
 I'm self-taught programming and currently studying backend engineering, I use JavaScript to build my work
